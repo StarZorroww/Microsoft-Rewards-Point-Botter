@@ -7,11 +7,11 @@ If you do for some reason, use this, then run it over night, as it takes control
 
 ## Imports
 ### pynput
-* npm i pynput
+* npm install pynput
 * Adds keyboard simulation functionality
 * (Used to type the search terms)
 
 ### subprocess
-* npm i subprocess
+* npm install subprocess
 * Adds program execution functionality
 * (Used to open instances of microsoft edge)
