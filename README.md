@@ -2,7 +2,7 @@
 This python script will create shit tons of microsoft edge tabs with stupid search terms so you get points for searching things up.
 I do not recommend using this unless you want your computer to crash
 
-If you do for some reason, use this, then run it over night, as it takes control of your keyboard and your active window selection.
+If you do for some reason, use this, then run it overnight, as it takes control of your keyboard and your active window selection.
 
 
 ## Imports
